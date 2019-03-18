@@ -75,7 +75,7 @@
 
 ---
 ***Полезные ссылки для углубленных знаний:***
-
++ [Библиотека предназначена для удобной обработки изображений в Материаловедении(науки о материалах)](https://ttk.gricad-pages.univ-grenoble-alpes.fr/spam/intro.html#welcome-to-spam)
 + [О технике детектирования с использованием пленки wsi](https://ilt.kharkov.ua/bvi/structure/d16/ru/nonequil_eff.html)
 + [Иммуногистохимические маркеры в диагностике, стадирование и прогнозе различных форм уротелиальной карциномы](https://www.science-education.ru/ru/article/view?id=4962)
 + [Боковые цепи](http://chem21.info/info/1304270/)
