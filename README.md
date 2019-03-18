@@ -81,3 +81,4 @@
 + [Боковые цепи](http://chem21.info/info/1304270/)
 + [Биопсия](https://megabook.ru/article/%D0%91%D0%B8%D0%BE%D0%BF%D1%81%D0%B8%D1%8F%20(%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0))
 + [Видео с комментариями гистологического среза почки в световом микроскопе](https://www.youtube.com/watch?v=Po5J67mW1JM)
++ https://ttk.gricad-pages.univ-grenoble-alpes.fr/spam/spam_examples/index.html
